@@ -1,6 +1,6 @@
 #pragma once // prevents multiple definitions
 
-#include <iostream> // print library
+#include <stdio.h> // print library
 
 // Exercise 1: implements function 'add', that adds two numbers
 int add(int a, int b);
